@@ -13,7 +13,7 @@ it is a fun testing.
 "Hello world". what else do you need?
 
 ```
-print (" Hello 2022!" 
+print (" Hello 2022!" )
 
 ```
 
@@ -28,7 +28,9 @@ print (" Hello 2022!"
 
  
 ## you should know,
+
 **this is bold**
+
 __this is italics__ 
 
 
