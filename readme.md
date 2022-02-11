@@ -34,7 +34,7 @@ print (" Hello 2022!" )
 __this is italics__ 
 
 
-** what this project is for : ** 
+**what this project is for:** 
 
 Just to test the formant of the file. 
 
